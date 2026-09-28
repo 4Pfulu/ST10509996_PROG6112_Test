@@ -30,9 +30,9 @@ public class ST10509996_PROG6112_Test {
         System.out.println("GAMING CONSOLE REPORT");
         System.out.println("---------------------------------------");
         
-         System.out.print("\t \t \t");
+         System.out.print(" \t\t\t");
           for (int j = 0; j < Console.length; j++){
-              System.out.print(Console[j] + "\t\t");
+              System.out.print(Console[j] + "\t");
           }
           System.out.println();
            for (int i = 0 ;i < cities.length;  i++) {
