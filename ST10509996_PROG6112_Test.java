@@ -27,7 +27,7 @@ public class ST10509996_PROG6112_Test {
         };
        int [] CityTotals = new int[cities.length];
         System.out.println("-------------------------------------");
-        System.out.println("/nGAMING CONSOLE REPORT");
+        System.out.println("GAMING CONSOLE REPORT");
         System.out.println("---------------------------------------");
         
          System.out.print("\t \t \t");
